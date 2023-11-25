@@ -1,0 +1,47 @@
+[
+  {
+    "code": "it-IT",
+    "label": "Italiano",
+    "voices": ["it-IT-Neural2-C"]
+  },
+  {
+    "code": "fr-FR",
+    "label": "Français",
+    "voices": ["fr-FR-Neural2-B"]
+  },
+  {
+    "code": "es-ES",
+    "label": "Español",
+    "voices": ["es-ES-Neural2-B"]
+  },
+  {
+    "code": "de-DE",
+    "label": "Deutsch",
+    "voices": ["de-DE-Neural2-B"]
+  },
+  {
+    "code": "en-US",
+    "label": "English (US)",
+    "voices": ["en-US-Neural2-J"]
+  },
+  {
+    "code": "ja-JP",
+    "label": "Japanese",
+    "voices": ["ja-JP-Neural2-C"]
+  },
+  {
+    "code": "cmn-CN",
+    "label": "普通话 (中国大陆)",
+    "voices": ["cmn-CN-Wavenet-B"]
+  },
+  {
+    "code": "ru-RU",
+    "label": "Русский (Россия)",
+    "voices": ["ru-RU-Wavenet-B"]
+  },
+  {
+    "code": "sr-RS",
+    "label": "Српски (Србија)",
+    "voices": ["sr-RS-Standard-A"]
+  }
+]
